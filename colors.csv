@@ -1,0 +1,11 @@
+id,name,red,green,blue
+1,Red,255,0,0
+2,Green,0,255,0
+3,Blue,0,0,255
+4,Yellow,255,255,0
+5,Orange,255,165,0
+6,Purple,128,0,128
+7,Pink,255,192,203
+8,Black,0,0,0
+9,White,255,255,255
+10,Gray,128,128,128
